@@ -34,7 +34,8 @@ Lua 是巴西里约热内卢天主教大学（Pontifical Catholic University of 
 
 ### 实例\(Lua 5.3\)
 
-print\("Hello World!"\)  
+`print\("Hello World!"\)`
+
 [运行实例 »](http://www.runoob.com/try/runcode.php?filename=HelloWorld&type=lua)
 
 运行后，会在屏幕上显示 Hello, world!。
